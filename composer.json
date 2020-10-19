@@ -1,0 +1,16 @@
+{
+    "name": "marcel/modeliser1",
+    "authors": [
+        {
+            "name": "Marcel Lavergne",
+            "email": "lavergne.marcel@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/Wcs"
+        }
+    }
+}
+
